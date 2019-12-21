@@ -1,3 +1,5 @@
+**Check out `voypost` branch. The reason of using this fork is in https://github.com/axios/axios/pull/2502.**
+
 # axios
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
